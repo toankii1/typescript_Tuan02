@@ -1,0 +1,14 @@
+{
+  "name": "tuan2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node src/bai2.js",
+    "dev": "tsc && node src/bai2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
