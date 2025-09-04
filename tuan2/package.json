@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "node src/bai11.js",
-    "dev": "tsc && node src/bai11.js"
+    "start": "node src/ba12.js",
+    "dev": "tsc && node src/ba12.js"
   },
   "keywords": [],
   "author": "",
